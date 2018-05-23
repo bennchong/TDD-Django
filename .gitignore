@@ -4,4 +4,4 @@ venv
 geckodriver.exe
 *.pyc
 __pycache__
-.idea
+.idea/static 
